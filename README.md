@@ -9,7 +9,6 @@ $ composer require bantenprov/indikator-kemiskinan-kabupaten-kota:dev:master
 ```
 - Latest release:
 
-
 ## download via github
 
 ~~~bash
