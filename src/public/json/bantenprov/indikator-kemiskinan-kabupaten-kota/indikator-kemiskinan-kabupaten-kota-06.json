@@ -1,0 +1,77 @@
+[
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan",
+      "type": "category",
+      "region": "Provinsi"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":315819,"name":"2014"},
+          {"value":336483 ,"name":"2015"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin",
+      "type": "category",
+      "region": "Provinsi"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":649.2,"name":"2014"},
+          {"value":702.4 ,"name":"2015"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Presentase Penduduk Miskin",
+      "type": "category",
+      "region": "Provinsi"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":5.51,"name":"2014"},
+          {"value":5.90 ,"name":"2015"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P1",
+      "type": "category",
+      "region": "Provinsi"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":0.786,"name":"2014"},
+          {"value":0.935,"name":"2015"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P2",
+      "type": "category",
+      "region": "Provinsi"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":0.178,"name":"2014"},
+          {"value":0.229,"name":"2015"}
+        ]
+      }
+    ]
+  }
+]
