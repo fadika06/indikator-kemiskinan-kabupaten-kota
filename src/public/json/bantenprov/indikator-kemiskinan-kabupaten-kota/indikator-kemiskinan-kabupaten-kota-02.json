@@ -1,0 +1,762 @@
+[
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          237111,
+          247073
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          219177,
+          228146 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          351789,
+          372431
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          223190,
+          232856
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          421554,
+          455228
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          306253,
+          323935
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          242977,
+          255614
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          401696,
+          433967
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          113.1,
+          124.4
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          115.8,
+          126.4 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          173.1,
+          191.1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          71.4,
+          74.9
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          98.8,
+          102.6
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          15.5,
+          17.0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          36.2,
+          40.2
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          25.3,
+          25.9
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Presentase Penduduk Miskin",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          9.50,
+          10.43
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Presentase Penduduk Miskin",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          9.17,
+          9.97 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Presentase Penduduk Miskin",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5.26,
+          5.71
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Presentase Penduduk Miskin",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          4.87,
+          5.09
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Presentase Penduduk Miskin",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          4.91,
+          5.04
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Presentase Penduduk Miskin",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          3.81,
+          4.10
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Presentase Penduduk Miskin",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5.70,
+          6.28
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Presentase Penduduk Miskin",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1.68,
+          1.69
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P1",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1.340,
+          1.627
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P1",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1.350,
+          1.501 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P1",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.630,
+          0.817
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P1",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.580,
+          0.708
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P1",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.640,
+          0.868
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P1",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.870,
+          0.442
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P1",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.680,
+          0.975
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P1",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.200,
+          0.190
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P2",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.280,
+          0.365
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P2",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.340,
+          0.343 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P2",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.120,
+          0.176
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P2",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.110,
+          0.150
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P2",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.130,
+          0.262
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P2",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.310,
+          0.072
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P2",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.150,
+          0.259
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "P2",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.040,
+          0.054
+        ]
+      }
+    ]
+  }
+]
